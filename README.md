@@ -15,8 +15,8 @@ This boilerplate provides a solid foundation for building single-page websites u
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git  
-cd your-repo  
+git clone https://github.com/paulmadut/single-page-website-boilerplate.git  
+cd single-page-website-boilerplate  
 pnpm install  # or npm install / yarn install
 ```
 
